@@ -1,0 +1,58 @@
+body{
+    overflow:scroll;  
+}
+.completeBody{
+    width:100%;
+ 
+    margin-right: 30px;
+    border: 1px white solid
+    ;
+    border-radius: 8px;
+    background-color: lightgray;
+    position: relative
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+      text-align: center;
+   
+    
+}
+p{
+    text-align: center;
+    font-size: larger;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+}
+.imageArea{
+ 
+   position: relative;
+    width: 98%;
+    height: 550px;
+    margin: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color: darkgrey;
+text-align: center;
+}
+img{
+border-radius: 20px;
+ 
+    object-fit: cover;
+    width: 75%;
+
+}
+.work{
+    text-align:justify;
+    justify-content: center;
+    width: 50%;
+    margin-left: 25%;
+    font-family: 'Courier New', Courier, monospace
+    ;
+    color:blue;
+    font-size:medium;
+}
+.footer{
+    font-size: smaller;
+}
